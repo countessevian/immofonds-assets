@@ -1,0 +1,2 @@
+
+"use strict";var LstTypo3={config:{events:{contentAdded:"LstContentAdded"}},emitContentAddedEvent:function(){var t=document.createEvent("Event");t.initEvent(LstTypo3.config.events.contentAdded,!0,!0),document.dispatchEvent(t)}};

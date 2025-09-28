@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Ebene_1" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="0.5" y="0.3" width="99.5" height="99.5"></rect>
+	</defs>
+	<clipPath id="SVGID_00000181078058456767663480000015721570357212654503_">
+		<use xlink:href="#SVGID_1_" overflow="visible"></use>
+	</clipPath>
+	<path clip-path="url(#SVGID_00000181078058456767663480000015721570357212654503_)" fill="#94C24A" d="M50.2,98   c26.4,0,47.9-21.5,47.9-47.9c0-26.4-21.5-47.9-47.9-47.9S2.3,23.7,2.3,50.1C2.3,76.5,23.8,98,50.2,98"></path>
+	
+		<path clip-path="url(#SVGID_00000181078058456767663480000015721570357212654503_)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="   M50.2,98c26.4,0,47.9-21.5,47.9-47.9c0-26.4-21.5-47.9-47.9-47.9S2.3,23.7,2.3,50.1C2.3,76.5,23.8,98,50.2,98z"></path>
+</g>
+<path fill="#FFFFFF" d="M34,34.4l18.7,8.1V72h-6.1v-8.6h-6.4V72H34V34.4z M60.4,58.2h4.2v4.2h-4.2V58.2z M60.4,48.1h4.2v4.2h-4.2  V48.1z M60.4,38.1h4.2v4.2h-4.2V38.1z M70.8,72V22.3L50.1,33.5V37L30,28.2V72h-4.8v3.2h50.1V72H70.8z"></path>
+<rect x="37.4" y="44.3" fill="#FFFFFF" width="4.2" height="4.2"></rect>
+<rect x="45.1" y="44.3" fill="#FFFFFF" width="4.2" height="4.2"></rect>
+<rect x="37.4" y="51.9" fill="#FFFFFF" width="4.2" height="4.2"></rect>
+<rect x="45.1" y="51.9" fill="#FFFFFF" width="4.2" height="4.2"></rect>
+</svg>
